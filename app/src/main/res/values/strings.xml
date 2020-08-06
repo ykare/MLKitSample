@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MLKitSample</string>
+    <string name="album_btn">アルバムを開く</string>
+    <string name="camera_btn">カメラで撮影する</string>
+    <string-array name="dog_breed">
+        <item>アメリカンブルドッグ</item>
+        <item>ピーグル</item>
+        <item>ボクサー</item>
+        <item>チワワ</item>
+        <item>狆</item>
+        <item>ポメラニアン</item>
+        <item>パグ</item>
+        <item>セントバーナード</item>
+        <item>柴犬</item>
+        <item>ヨークシャーテリア</item>
+    </string-array>
+    <string name="true_text">これは%sです。</string>
+    <string name="false_text">すみません。判別できませんでした。</string>
+</resources>
